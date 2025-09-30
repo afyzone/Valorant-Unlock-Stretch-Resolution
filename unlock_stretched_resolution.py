@@ -1,6 +1,6 @@
 import os, requests, shutil, tempfile
 
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/afyzone/Valorant-Unlock-Stretch-Resolution/refs/heads/main/Resources/GameUserSettings.ini"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/afyzone/Valorant-Unlock-Stretched-Resolution/refs/heads/main/Resources/GameUserSettings.ini"
 FILENAME = "GameUserSettings.ini"
 BASE_DIR = os.path.expandvars(r"%localappdata%\VALORANT\Saved\Config")
 
